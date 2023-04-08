@@ -1,4 +1,4 @@
 site_url = "https://petfriends.skillfactory.ru/login"
 
-email = "jamiemadrox@mail.ru"
-password = "Qazwsxedc123"
+email = "************"
+password = "***************"
